@@ -1,0 +1,21 @@
+.card{
+    width: 500px;
+    color:white;
+    text-align: center;
+    background-color:brown;
+}
+
+body{
+    background-color:beige;
+}
+
+.resturant{
+    text-align: center;
+    font-size: 100px;
+    color: brown;
+}
+
+#dish_name{
+    color: white;
+}
+
